@@ -15,6 +15,9 @@ const Navbar = () => {
           <Link to="/" className="text-2xl font-bold text-emerald-400 items-center space-x-2 flex">
             E-Commerce
           </Link>
+          <Link to="/" className="text-2xl font-bold text-emerald-400 items-center space-x-2 flex">
+            CHANDU'S
+          </Link>
 
           <nav className="flex flex-wrap items-center gap-4">
             <Link
